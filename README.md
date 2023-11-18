@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/NyD7nEg"/>
+<img src="https://i.imgur.com/NyD7nEg.png" height="80%" width="80%" alt="AirTable"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
